@@ -12,4 +12,6 @@ This project is inspired by:
 
 Feel free to fork or whatever, Still learning git too. 
 
+**Note:** when running the file, make sure to run all cells for it to work
+
 james
