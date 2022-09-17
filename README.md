@@ -2,7 +2,7 @@
 
 The purpose of this project is to study machine learning  
 by hands on work. This will involve the creation of a neural network  
-without importing python libraries for machine learning. 
+without importing python libraries for machine learning (i.e. PyTorch and Tensorflow). 
 
 This project is inspired by:
 
